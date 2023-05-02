@@ -1,0 +1,15 @@
+/Users/hasan/Documents/CSharpStack/MyFirstApp/MyFirstApp/bin/Debug/net6.0/MyFirstApp
+/Users/hasan/Documents/CSharpStack/MyFirstApp/MyFirstApp/bin/Debug/net6.0/MyFirstApp.deps.json
+/Users/hasan/Documents/CSharpStack/MyFirstApp/MyFirstApp/bin/Debug/net6.0/MyFirstApp.runtimeconfig.json
+/Users/hasan/Documents/CSharpStack/MyFirstApp/MyFirstApp/bin/Debug/net6.0/MyFirstApp.dll
+/Users/hasan/Documents/CSharpStack/MyFirstApp/MyFirstApp/bin/Debug/net6.0/MyFirstApp.pdb
+/Users/hasan/Documents/CSharpStack/MyFirstApp/MyFirstApp/obj/Debug/net6.0/MyFirstApp.csproj.AssemblyReference.cache
+/Users/hasan/Documents/CSharpStack/MyFirstApp/MyFirstApp/obj/Debug/net6.0/MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hasan/Documents/CSharpStack/MyFirstApp/MyFirstApp/obj/Debug/net6.0/MyFirstApp.AssemblyInfoInputs.cache
+/Users/hasan/Documents/CSharpStack/MyFirstApp/MyFirstApp/obj/Debug/net6.0/MyFirstApp.AssemblyInfo.cs
+/Users/hasan/Documents/CSharpStack/MyFirstApp/MyFirstApp/obj/Debug/net6.0/MyFirstApp.csproj.CoreCompileInputs.cache
+/Users/hasan/Documents/CSharpStack/MyFirstApp/MyFirstApp/obj/Debug/net6.0/MyFirstApp.dll
+/Users/hasan/Documents/CSharpStack/MyFirstApp/MyFirstApp/obj/Debug/net6.0/refint/MyFirstApp.dll
+/Users/hasan/Documents/CSharpStack/MyFirstApp/MyFirstApp/obj/Debug/net6.0/MyFirstApp.pdb
+/Users/hasan/Documents/CSharpStack/MyFirstApp/MyFirstApp/obj/Debug/net6.0/MyFirstApp.genruntimeconfig.cache
+/Users/hasan/Documents/CSharpStack/MyFirstApp/MyFirstApp/obj/Debug/net6.0/ref/MyFirstApp.dll
